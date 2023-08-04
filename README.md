@@ -9,8 +9,8 @@ Script Link:
 Supported Executors
  Paid
  
- [ Synapse X](https://x.synapse.to/)- NOT WORKING, [Scriptware](https://script-ware.com/w)https://script-ware.com/w)- NOT WORKING, [Scriptware MAC]([https://script-ware.com/w)https://script-ware.com/m)- NOT WORKING
+ [ Synapse X](https://x.synapse.to/)- NOT WORKING, [Scriptware](https://script-ware.com/w)- NOT WORKING, [Scriptware MAC]([https://script-ware.com/w)- NOT WORKING
  
  Free
  
- Krnl- NOT WORKING, [Fluxus](https://fluxteam.net), [Electron](https://ryos.lol), [Scriptware iOS](https://script-ware.com/ios)
+ Krnl- NOT WORKING, [Fluxus](https://fluxteam.net), [Electron](https://ryos.lol), [Scriptware iOS](https://script-ware.com/ios), [Hydrogen](https://hydrogen.us.com/)
