@@ -13,4 +13,4 @@ Supported Executors
  
  Free
  
- Krnl- NOT WORKING, [Fluxus](https://fluxteam.net), [Electron]([url](https://ryos.lol/)), [Scriptware iOS]([url](https://script-ware.com/w)https://script-ware.com/ios)
+ Krnl- NOT WORKING, [Fluxus](https://fluxteam.net), [Electron]([url](https://ryos.lol/), [Scriptware iOS]([url](https://script-ware.com/w)https://script-ware.com/ios)
